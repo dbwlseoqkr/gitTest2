@@ -18,10 +18,15 @@
 		<LI>JDBC</LI>
 	</UL>
 	<ul>
+
 		<li>변수선언</li>
 		<li>메소드선언</li>
 		<li>클래스선언</li>
-		
+		</ul>		
+		<ul>
+		<li>git 기본</li>
+		<li>git init</li>
+		<li>igt add</li>
 	</ul>
 </body>
 </html>
