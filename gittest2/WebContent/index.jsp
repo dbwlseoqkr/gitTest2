@@ -28,10 +28,5 @@
 		<li>git init</li>
 		<li>igt add</li>
 	</ul>
-	<ul>
-		<li>oracle</li>
-		<li>MySQL</li>
-		<li>MSSQL</li>
-	</ul>
 </body>
 </html>
