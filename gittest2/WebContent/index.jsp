@@ -14,7 +14,7 @@
 	</ul>
 	<UL>
 		<LI>JSP</LI>
-		
+		<li>SERVLET</li>
 	</UL>
 </body>
 </html>
